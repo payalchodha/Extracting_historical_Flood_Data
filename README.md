@@ -17,10 +17,10 @@ This year alone, over a million people lost their homes and had to move to relie
 
 # Directory Links
 
-*  [News-Sources-Gathering-Cleaning-and-combining](https://git.generalassemb.ly/bethpadera-GA/CHI-DSI9-TEAM-FLOOD/tree/master/News%20Sources%20-%20Gathering%2C%20Cleaning%2C%20Combining)
-* [Data](https://git.generalassemb.ly/bethpadera-GA/CHI-DSI9-TEAM-FLOOD/tree/master/data)
-* [Weather](https://git.generalassemb.ly/bethpadera-GA/CHI-DSI9-TEAM-FLOOD/tree/master/Weather)
-* [Econ](https://git.generalassemb.ly/bethpadera-GA/CHI-DSI9-TEAM-FLOOD/tree/master/Econ)
+*  [News-Sources-Gathering-Cleaning-and-combining](https://github.com/payalchodha/Extracting_historical_Flood_Data/tree/master/News%20Sources%20-%20Gathering%2C%20Cleaning%2C%20Combining)
+* [Data](https://github.com/payalchodha/Extracting_historical_Flood_Data/tree/master/data)
+* [Weather](https://github.com/payalchodha/Extracting_historical_Flood_Data/tree/master/Weather)
+* [Econ](https://github.com/payalchodha/Extracting_historical_Flood_Data/tree/master/Econ)
 
 # Process Overview
 
