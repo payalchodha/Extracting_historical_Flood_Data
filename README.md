@@ -66,7 +66,7 @@ SQLite is a C-language library that implements a small, fast, self-contained, hi
  
  # Demonstration of the tool
  
-  ![grab-landing-page](https://git.generalassemb.ly/bethpadera-GA/CHI-DSI9-TEAM-FLOOD/blob/master/app-final-gif.gif)
+  ![grab-landing-page](https://github.com/payalchodha/Extracting_historical_Flood_Data/blob/master/app-final-gif.gif)
  
 # Challenges
 * Inability to find news sources documentation flood events before.
@@ -84,4 +84,4 @@ SQLite is a C-language library that implements a small, fast, self-contained, hi
  * Collaborate with UX/Web-dev teams to enhance user experience
  * SQLite is not that robust but is portable, could consider porting it to other more robust engines like postgreSQL.
  
-# Extracting Historic Flood Information from News Sources [Slide-Deck](https://git.generalassemb.ly/bethpadera-GA/CHI-DSI9-TEAM-FLOOD/blob/master/Client%20Project%20-%20Flood%20.pdf)
+# Extracting Historic Flood Information from News Sources [Slide-Deck](https://github.com/payalchodha/Extracting_historical_Flood_Data/blob/master/Client%20Project%20-%20Flood%20.pdf)
